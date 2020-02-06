@@ -1,0 +1,24 @@
+{
+  "name": "taller-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacoBocanegra/taller-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacoBocanegra/taller-nodejs/issues"
+  },
+  "homepage": "https://github.com/PacoBocanegra/taller-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "voca": "^1.4.0"
+  }
+}
